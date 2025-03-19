@@ -4,8 +4,7 @@
 
 Source code for VS Sarventes Midnight Masses V1.
 i hate that you hid the html files, i thought i had to compile the flixer files xd
-
 anyway click the link and support more games like this at https://ublockedslackrr.github.io./
 
 
-Mod by @bfswifeforever.
+Mod by @goldie.
