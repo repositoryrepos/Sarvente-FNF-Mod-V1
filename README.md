@@ -1,4 +1,4 @@
-# Friday Night Funkin' Vs Sky V1
+# Friday Night Funkin' Sarvente Midfight Madness V1
 
 ![Sky V1 Banner](https://github.com/repositoryrepos/Sarvente-FNF-Mod-V1/blob/main/img/skin-funkin-cardbordtoast.jpg)
 
