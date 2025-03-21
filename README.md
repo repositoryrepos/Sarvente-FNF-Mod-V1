@@ -1,6 +1,6 @@
 # Friday Night Funkin' Sarvente Midfight Masses V1
 
-![Sky V1 Banner](https://github.com/repositoryrepos/Sarvente-FNF-Mod-V1/blob/main/img/skin-funkin-cardbordtoast.jpg)
+![Sky V1 Banner](https://github.com/repositoryrepos/Sarvente-FNF-Mod-V1/blob/main/Midfight_Masses_Update_Banner.jpeg)
 
 Source code for VS Sarventes Midfight Masses V1.
 
